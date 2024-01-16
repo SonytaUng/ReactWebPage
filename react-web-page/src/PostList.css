@@ -1,0 +1,15 @@
+/*handle decoration for code in PostList.js */
+.post-list{
+  margin-left: 10px;
+  color: red;
+}
+.title {
+    margin-top: 20px;
+    color: gold;
+  }
+  
+.description{
+  color: gold;
+  margin-left: 10px;
+}
+  
